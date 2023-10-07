@@ -3,7 +3,7 @@ let myAge = 20
 
 // console.log(myName + myAge);  //outdated
 
-// console.log(`My name is ${myName} and I am ${myAge} years old`);
+// console.log(`My name is ${myName} and I am ${myAge} years old`); // new version
 
 const fullName = new String('Srirama Chaitanya')
 
