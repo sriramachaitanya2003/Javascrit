@@ -23,3 +23,4 @@ console.log(arr4);
 const arr5 = arr1.splice(0,2) // It will also work as slice but the original array values changes according to the indexes
 console.log(arr5);
 console.log(arr1);
+
